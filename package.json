@@ -13,5 +13,7 @@
     "dependencies": {},
     "files": [],
     "directories": {},
-    "scripts": {}
+    "scripts": {
+        "start": "node bienvenue.js"
+    }
 }
