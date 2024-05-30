@@ -1,0 +1,17 @@
+{
+    "name": "discordjs-hivecloud-egg",
+    "version": "1.0.0",
+    "private": true,
+    "description": "Module de gestion d'instance DiscordJS de HiveCloud.FR",
+    "keywords": [],
+    "author": {
+        "name": "HIVECLOUD",
+        "email": "contact@hivecloud.fr",
+        "url": "https://hivecloud.fr/"
+    },
+    "main": "bienvenue.js",
+    "dependencies": {},
+    "files": [],
+    "directories": {},
+    "scripts": {}
+}
