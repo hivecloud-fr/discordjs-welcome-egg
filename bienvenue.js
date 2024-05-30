@@ -23,9 +23,7 @@ console.log(coloredAsciiArt);
 console.log(`                             
 \x1b[37mBienvenue sur votre hébergement Discord.JS propulsé par \x1b[34mHiveCloud.FR\x1b[0m
 Pour mettre en place votre instance, connectez-vous via le serveur SFTP en cliquant sur la catégorie "Paramètres".
-\x1b[32mMerci de votre confiance\x1b[0m !\n
-
-\x1b[31m# Liens utiles\x1b[0m
+\x1b[32mMerci de votre confiance\x1b[0m !\n\n\x1b[31m# Liens utiles\x1b[0m
 Site internet: \x1b[36mhttps://hivecloud.fr/\x1b[0m
 Discord: \x1b[36mhttps://discord.hivecloud.fr/\x1b[0m
 `);
